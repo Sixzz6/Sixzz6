@@ -1,3 +1,3 @@
 ### Najah Muhabbik
 
-![Frost's github stats](https://github-readme-stats.vercel.app/api?username=frostid&show_icons=true&theme=dark)
+![Sixzz6's github stats](https://github-readme-stats.vercel.app/api?username=Sixzz6&show_icons=true&theme=dark)
